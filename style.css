@@ -356,6 +356,12 @@ p {
 	padding: 10px 20px;
 	font-size: 2rem;
 }
+#about .col-left .about-img {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	border: 10px solid white;
+}
 /* End About Section */
 
 /* contact Section */
